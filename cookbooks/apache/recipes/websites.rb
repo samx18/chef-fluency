@@ -1,6 +1,6 @@
 file 'default www' do 
 	path '/var/www/html/index.html'
-	content 'Hello World'
+	content 'Hello World! This is version 2.0'
 end
 
 #Search within recipe based on a role
