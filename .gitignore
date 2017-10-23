@@ -1,6 +1,6 @@
 # Chef
 .chef/*.pem
-.chef/*.crt
+.chef/trusted_certs/*.*
 .chef/encrypted_data_bag_secret
 
 # Ruby
