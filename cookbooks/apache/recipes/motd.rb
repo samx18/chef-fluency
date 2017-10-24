@@ -1,5 +1,5 @@
 hostname = node['hostname']
 
 file '/etc/motd' do
-	content "Hostname is #{hostname}"
+	content "Welcome to node:  #{hostname}.This node is managed by chefServer!"
 end
